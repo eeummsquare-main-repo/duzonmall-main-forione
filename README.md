@@ -10,7 +10,7 @@ GitHub Pages로 서비스합니다. 저장소 루트가 곧 사이트 루트입�
 
 - **Settings → Pages → Source**: `Deploy from a branch`
 - **Branch**: `main` / `/ (root)`
-- 배포 주소: <https://dwww9292-collab.github.io/duzonmall/>
+- 배포 주소: <https://eeummsquare-main-repo.github.io/duzonmall-main-forione/>
 
 `.nojekyll` 파일이 있어 Jekyll 빌드를 건너뛰고 파일을 그대로 서빙합니다.
 
